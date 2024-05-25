@@ -1,0 +1,96 @@
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+
+/* body {
+    color: white;
+} */
+
+.fontkv {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bgorange, .bgorange:hover {
+    background-color: #eb2b63;
+}
+
+.gray {
+    color: #585858;
+}
+
+.cardbg {
+    background-color: #eef6f9;
+}
+
+.shadowb {
+    box-shadow: 0px 17px 52px -16px rgba(0,0,0,0.75);
+}
+
+.purplebg {
+    background-color: #7246b3;
+}
+
+.bgheader {
+    background-image: url(https://preview.colorlib.com/theme/ithost/img/bg.jpg.webp);
+    background-size: cover;
+    
+}
+
+.bgimg {
+    background-image: url(https://preview.colorlib.com/theme/ithost/img/domain-bg.jpg.webp);
+    background-size: cover;
+}
+
+.rocket {
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+.bglast {
+    background-image: url(https://preview.colorlib.com/theme/ithost/img/banner-bg.jpg.webp);
+    background-size: cover;
+}
+
+.big {
+    font-size: 75px;
+}
+
+footer {
+    background-color: #200545;
+}
+
+.dark-blue {
+    background-color: #1b043b;
+}
+
+.fa-brands {
+    background-color: #491f70;
+    border-radius: 50%;
+}
+
+.ftr-txt {
+    color: #584474;
+}
+
+.txt-orange {
+    color: #eb2b63;
+}
+
+@keyframes example {
+    0%   {left:0px; top:0px;}
+    25%  {left:0px; top:100px;}
+    50%  {left:0px; top:0px;}
+    75%  {left:0px; top:100px;}
+    100% {left:0px; top:0px;}
+  }
+
+/* ------------------ */
+
+.circleicon {
+    background-color: #eb2b63;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
